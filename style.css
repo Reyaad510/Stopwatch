@@ -1,0 +1,29 @@
+
+html {
+    font-size: 62.5%;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#display {
+    margin-bottom: 20px;
+    font-size: 8.0rem;
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button {
+    flex-basis: 100%;
+    margin: 10px 0;
+}
+
+
+
